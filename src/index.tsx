@@ -3,7 +3,6 @@ import { BrowserRouter, Route,Routes } from 'react-router-dom'
 
 import App from 'App'
 
-import Spl from 'spl'
 
 import reportWebVitals from 'reportWebVitals'
 
@@ -37,7 +36,6 @@ createRoot(document.getElementById('root') as HTMLElement).render(
         <WalletModalProvider>
           <Routes>
             <Route path="/" element={<App />} />
-            <Route path="/spl" element={<Spl />} />
           </Routes>
         </WalletModalProvider>
       </WalletProvider>
