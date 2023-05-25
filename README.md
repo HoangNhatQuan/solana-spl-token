@@ -31,5 +31,6 @@ yarn start
 ```
 
 # Result Run Dapp
-![image](https://user-images.githubusercontent.com/98334389/233822309-6433c2ed-b639-4a04-9b5e-313529066621.png)
+![image](https://github.com/HoangNhatQuan/solana-spl-token/assets/98334389/131c1445-d089-4218-8bf5-2ef6f6730843)
+
 
