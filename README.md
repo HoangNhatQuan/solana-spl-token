@@ -31,6 +31,13 @@ yarn start
 ```
 
 # Result Run Dapp
+## Features
+- Create Token
+- Check Balance Token
+- MintTo Token
+- Transfer Token
+- Burn Token
+## Img Demo
 ![image](https://github.com/HoangNhatQuan/solana-spl-token/assets/98334389/131c1445-d089-4218-8bf5-2ef6f6730843)
 
 
